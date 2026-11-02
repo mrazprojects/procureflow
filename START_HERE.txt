@@ -1,0 +1,1 @@
+Extract this ZIP, open the folder in VS Code, and follow README.md. Test first with the two workbooks in data/samples.

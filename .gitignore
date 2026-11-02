@@ -1,0 +1,45 @@
+
+# Python environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Streamlit local configuration and secrets
+.streamlit/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Generated reports
+reports/*.xlsx
+reports/*.pdf
+
+# Private or working business documents
+10_Vertex_Engineering_Trading.xlsx
+
+# Backup files
+*_backup/
+*_backup.py
+*_backup_*.py
+
+# Temporary files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+data/samples/TEST*.pdf
+data/samples/Test/
+~$*.xlsx
+rfq_app/ai_pipeline
+tests/fixtures/test_extraction
+rfq_app/streamlit_app_pre_redesign.py
