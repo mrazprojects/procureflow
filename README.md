@@ -274,3 +274,38 @@ B.Tech Mechanical Engineering | Procurement & Engineering Background
 Project developed to explore practical applications of Python automation, document processing and locally hosted AI in procurement operations.
 
 **GitHub:** https://github.com/mrazilprojects
+
+## Application Screenshots
+
+### 1. RFQ Evaluation Workspace
+![ProcureFlow Homepage](screenshots/01_homepage.png)
+
+### 2. Buyer RFQ Upload
+![Buyer RFQ Upload](screenshots/02_buyer_rfq_upload.png)
+
+### 3. Supplier Quotation Upload
+![Supplier Quotation Upload](screenshots/03_supplier_quotation_upload.png)
+
+### 4. Evaluation Overview
+![Evaluation Overview](screenshots/04_evaluation_overview.png)
+
+### 5. Extracted Supplier Data
+![Extracted Supplier Data](screenshots/05_extracted_supplier_data.png)
+
+### 6. Supplier Comparison
+![Supplier Comparison](screenshots/06_supplier_comparison.png)
+
+### 7. Technical Evaluation – Compliant
+![Compliant Technical Evaluation](screenshots/07_technical_evaluation_compliant.png)
+
+### 8. Technical Evaluation – Clarification Required
+![Clarification Required](screenshots/08_technical_evaluation_clarification.png)
+
+### 9. Technical Evaluation – Mismatch
+![Technical Mismatch](screenshots/09_technical_evaluation_mismatch.png)
+
+### 10. Human Review and Verification
+![Human Review](screenshots/10_human_review_verification.png)
+
+### 11. Excel Report Export
+![Excel Report Export](screenshots/11_excel_report_export.png)
