@@ -273,7 +273,7 @@ B.Tech Mechanical Engineering | Procurement & Engineering Background
 
 Project developed to explore practical applications of Python automation, document processing and locally hosted AI in procurement operations.
 
-**GitHub:** https://github.com/mrazilprojects
+**GitHub:** https://github.com/mrazprojects
 
 ## Application Screenshots
 
