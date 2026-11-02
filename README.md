@@ -137,7 +137,7 @@ Application screenshots will be added here.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/mrazilprojects/procureflow.git
+git clone https://github.com/mrazprojects/procureflow.git
 cd procureflow
 ```
 
