@@ -117,14 +117,6 @@ Supplier eligibility is determined using the implemented evaluation rules. Quota
 
 ---
 
-## Screenshots
-
-Application screenshots will be added here.
-
-<!-- Add dashboard screenshots after publishing the repository. -->
-
----
-
 ## Installation and Setup
 
 ### Prerequisites
